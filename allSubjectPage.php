@@ -1,7 +1,7 @@
 <body>
-    <?php include 'include/head.php'; ?>
-    <?php include 'include/navBar.php'; ?>
-    <?php include 'include/loginForm.php'; ?>
+    <?php include 'components/head.php'; ?>
+    <?php include 'components/navBar.php'; ?>
+    <?php include 'components/loginForm.php'; ?>
 
     <!-- all subject page title -->
     <div class="container">
@@ -95,6 +95,6 @@
 
     </div>
 
-    <?php include 'include/footer.php'; ?>
+    <?php include 'components/footer.php'; ?>
 </body>
 </html>
