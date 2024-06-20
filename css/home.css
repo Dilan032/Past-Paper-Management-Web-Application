@@ -1,6 +1,9 @@
 body{
     background-color: rgba(214, 214, 214, 0.26);
 }
+a{
+    text-decoration: none;
+}
 .bg-shadow{
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
 }
@@ -13,3 +16,5 @@ body{
 .cose-category-bg:hover{
     transform: scale(1.1);
 }
+
+

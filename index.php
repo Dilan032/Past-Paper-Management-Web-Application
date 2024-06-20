@@ -1,6 +1,7 @@
 <body>
     <?php include 'include/head.php'; ?>
     <?php include 'include/navBar.php'; ?>
+    <?php include 'include/loginForm.php'; ?>
 
 
     <!-- main image -->
