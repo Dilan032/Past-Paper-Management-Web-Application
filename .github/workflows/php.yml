@@ -1,0 +1,26 @@
+name: CI Workflow
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    
+    # Add other steps as needed
+    # For example, running tests or linters
+
+    # - name: Run tests
+    #   run: ./run-tests.sh
+    
+    # - name: Lint code
+    #   run: ./lint.sh
