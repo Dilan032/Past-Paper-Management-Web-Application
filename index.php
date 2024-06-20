@@ -20,46 +20,58 @@
         <!-- cose category section -->
         <div class="row fw-bold">
                 <div class="col-12 col-sm-6 col-md-4 col-lg-2 mb-4">
+                <a href="allSubjectPage.php">
                     <div class="cose-category-bg">
                         <img src="images/paper.png" alt="icon" width="40px" class="mb-4">
                         <br>
                         HNDIT
                     </div>
+                </a>
                 </div>
                 <div class="col-12 col-sm-6 col-md-4 col-lg-2 mb-4">
+                <a href="allSubjectPage.php">
                     <div class="cose-category-bg">
                         <img src="images/paper.png" alt="icon" width="40px" class="mb-4">
                         <br>
                         HNDA
-                    </div>                   
+                    </div>  
+                </a>                 
                 </div>
                 <div class="col-12 col-sm-6 col-md-4 col-lg-2 mb-4">
+                <a href="allSubjectPage.php">
                     <div class="cose-category-bg">
                         <img src="images/paper.png" alt="icon" width="40px" class="mb-4">
                         <br>
                         HNDE
-                    </div>  
+                    </div> 
+                </a> 
                 </div>
                 <div class="col-12 col-sm-6 col-md-4 col-lg-2 mb-4">
+                <a href="allSubjectPage.php">
                     <div class="cose-category-bg">
                         <img src="images/paper.png" alt="icon" width="40px" class="mb-4">
                         <br>
                         HNDM
                     </div>
+                </a>
                 </div>
                 <div class="col-12 col-sm-6 col-md-4 col-lg-2 mb-4">
+                <a href="allSubjectPage.php">
                     <div class="cose-category-bg">
                         <img src="images/paper.png" alt="icon" width="40px" class="mb-4">
                         <br>
                         HNDTHM
                     </div>
+                </a>
                 </div>
                 <div class="col-12 col-sm-6 col-md-4 col-lg-2 mb-4">
+                <a href="allSubjectPage.php">
                     <div class="cose-category-bg">
                         <img src="images/paper.png" alt="icon" width="40px" class="mb-4">
                         <br>
                         HNDBA
                     </div>
+                </a>
                 </div>
                 
             </div>    

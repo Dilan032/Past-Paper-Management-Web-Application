@@ -1,4 +1,7 @@
 .footer-bg{
     padding: 4px;
     background-color: white;
+    /* position: absolute; */
+    bottom: 0;
+    width: 100%;
 }

@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg bg-body-tertiary">
+<nav class="navbar navbar-expand-lg bg-body-tertiary bg-shadow">
   <div class="container-fluid">
     <a class="navbar-brand d-flex" href="#">
       <img src="images\362px-SLIATE_LOGO3.png" alt="Logo" width="50" >
@@ -17,5 +17,3 @@
   </div>
 </nav>
 
-<!-- <button type="button" class="btn btn-primary" data-bs-toggle="modal" 
-data-bs-target="#exampleModal" data-bs-whatever="@mdo">Open modal for @mdo</button> -->

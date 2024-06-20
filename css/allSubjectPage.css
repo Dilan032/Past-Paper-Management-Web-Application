@@ -1,0 +1,12 @@
+.title-bg{
+    background-color: white;
+}
+.underline-space {
+    text-underline-offset: 0.2em; 
+}
+.all-paper-bg{
+    background-color: white;
+    border-radius: 6px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    padding: 20px;
+}
