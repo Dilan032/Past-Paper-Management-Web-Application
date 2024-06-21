@@ -19,7 +19,7 @@
         <!-- number of year -->
         <div class="mb-4 d-flex justify-content-center fw-bold gap-5">
             <div class="p-2  fs-5 title-bg bg-shadow rounded">
-                <a href="#"> 1st YEAR  </a> 
+                <a href="#"> 1st YEAR </a> 
             </div>
             <div class="p-2  fs-5 title-bg bg-shadow rounded">
                 <a href="#"> 2nd YEAR </a>
@@ -28,7 +28,7 @@
 
         <!-- all paper name section -->
         <section class="all-paper-bg text-center">
-            <h5 class="text-decoration-underline underline-space mb-4">1st Semester</h5>
+            <h5 class="text-decoration-underline underline-space mb-4">1st Semester Subjects</h5>
             <table class="table w-50 mx-auto">
                 <tr>
                     <td class="col-1">1. </td>
@@ -73,7 +73,7 @@
             </table>
 
             <!-- 2nd semester -->
-            <h5 class="text-decoration-underline underline-space mt-5 mb-3">2nd Semester</h5>
+            <h5 class="text-decoration-underline underline-space mt-5 mb-3">2nd Semester Subjects</h5>
             <table class="table w-50 mx-auto">
                 <tr>
                     <td class="col-1">1. </td>

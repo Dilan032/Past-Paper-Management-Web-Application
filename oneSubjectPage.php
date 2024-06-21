@@ -32,7 +32,7 @@
                     <td>2023 </td>
                     <td><a class="btn btn-primary btn-sm" download="#" href="#">Paper</a></td>
                     <td><a class="btn btn-primary btn-sm" download="#" href="#">Answers</a></td>
-                    <td><a class="btn btn-primary btn-sm" download="#" href="#">Paper & Answers</a></td>
+                    <td><a class="btn btn-secondary btn-sm" download="#" href="#">Paper & Answers</a></td>
                 </tr>
                 <tr>
                     <td>2022 </td>
