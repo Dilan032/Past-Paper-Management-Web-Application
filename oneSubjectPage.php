@@ -12,7 +12,7 @@
                 </a>
             </div>
             <div class="p-2 bg-shadow rounded fs-3 flex-fill">
-                <span class="ms-4">HNDIT Past Papers</span>
+                <span class="ms-4"><b>1ST YEAR</b></span>
             </div>
        </div>
 
@@ -20,7 +20,7 @@
         <div class="mb-4 d-flex justify-content-center fw-bold">
             <div class="p-2 fs-5">
                 <a href="#">
-                    1ST YEAR - Software Quality Assurance [ 2204 ] 
+                    Software Quality Assurance - 2204  
                 </a>
             </div> 
         </div>
