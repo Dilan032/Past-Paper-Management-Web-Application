@@ -3,9 +3,8 @@
     <a class="navbar-brand d-flex" href="#">
       <img src="images\362px-SLIATE_LOGO3.png" alt="Logo" width="50" >
         
-        <h2 class="ms-3 mt-3">HND Past papers</h2>
-        <!-- <span>Past Paper Management Web Application</span>  -->
-        
+        <h2 class="ms-3 mt-3">SLIATE HND Past papers</h2>
+       
     </a>
 
     <span class="navbar-text me-5">

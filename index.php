@@ -5,14 +5,14 @@
 
 
     <!-- main image -->
-    <div class="container-fluid mb-5">
-        <img src="images/main2.jpg" class="img-fluid"  alt="main image" >
+    <div class="container mb-4 mt-4">
+        <img src="images/main2.jpg" class="img-fluid mx-auto d-block img-thumbnail"  alt="main image" width="800px">
     </div>
     
     
     <div class="container text-center">
         <!-- home details section -->
-        <section class="mb-5">
+        <section class="mb-3">
             <h3>About</h3>
             <p>Here you can get all HND Past Papers, Model Papers and Answer Sheets of SLIATE.</p>
         </section>

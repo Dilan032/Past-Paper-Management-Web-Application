@@ -31,20 +31,20 @@
                 <tr>
                     <td>2023 </td>
                     <td><a class="btn btn-primary btn-sm" download="#" href="#">Paper</a></td>
-                    <td><a class="btn btn-primary btn-sm" download="#" href="#">Answers</a></td>
+                    <td><a class="btn btn-success btn-sm" download="#" href="#">Answers</a></td>
                     <td><a class="btn btn-secondary btn-sm" download="#" href="#">Paper & Answers</a></td>
                 </tr>
                 <tr>
                     <td>2022 </td>
                     <td><a class="btn btn-primary btn-sm" href="#">Paper</a></td>
-                    <td><a class="btn btn-primary btn-sm" href="#">Answers</a></td>
-                    <td><a class="btn btn-primary btn-sm" href="#">Paper & Answers</a></td>
+                    <td><a class="btn btn-success btn-sm" href="#">Answers</a></td>
+                    <td><a class="btn btn-success btn-sm" href="#">Paper & Answers</a></td>
                 </tr>
                 <tr>
                     <td>2021 </td>
                     <td><a class="btn btn-primary btn-sm" href="#">Paper</a></td>
-                    <td><a class="btn btn-primary btn-sm" href="#">Answers</a></td>
-                    <td><a class="btn btn-primary btn-sm" href="#">Paper & Answers</a></td>
+                    <td><a class="btn btn-success btn-sm" href="#">Answers</a></td>
+                    <td><a class="btn btn-success btn-sm" href="#">Paper & Answers</a></td>
                 </tr>
             </table>
         </section>    
