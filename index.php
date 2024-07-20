@@ -2,6 +2,7 @@
     <?php include 'components/head.php'; ?>
     <?php include 'components/navBar.php'; ?>
     <?php include 'components/loginForm.php'; ?>
+    <?php include 'connection/dbConnection.php'; ?>
 
 
     <!-- main image -->
